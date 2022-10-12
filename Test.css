@@ -1,0 +1,32 @@
+h1{
+    color: white;
+}
+p{
+    color: gray;
+}
+b{
+    color: greenyellow;
+    text-decoration: none;
+}
+a{
+    color: gray;
+    text-decoration: none;
+}
+.box{
+    border-radius: 10px;
+}
+.bbutton{
+    border-radius: 20px; ;
+    height: 60px;
+    width: 150px;
+    color: greenyellow ;
+    background-color: gray ;
+}
+.abutton{
+    border-radius: 20px; ;
+    height: 60px;
+    width: 150px;
+    color: gray ;
+    background-color: greenyellow ;
+}
+
